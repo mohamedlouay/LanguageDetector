@@ -12,3 +12,6 @@ $ python appGui.py
 <p align="center">
 <img src="https://github.com/mohamedlouay/LanguageDetector/blob/main/images/screen.gif" alt="Example" width="600px">
 </p>        
+
+
+# The Training data can be [downloaded here](https://www.statmt.org/europarl/) 
